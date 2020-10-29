@@ -96,4 +96,5 @@ public function register()
 `'FormatTime' => App\Helpers\FormatTime::class,`
 - We can now use our helper in any part of our code, for example in a view we would do something like this:
 `{{ \FormatTime::LongTimeFilter($entrada->created_at) }}`
-- And with this we have already learned to create helpers in Laravel 5 in a simple way
+
+And with this we have already learned to create helpers in Laravel 5 in a simple way
