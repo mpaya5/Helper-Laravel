@@ -1,5 +1,5 @@
 # Helper-Laravel
-How to create a Helper in Laravel 5, step by step
+How to create a Helper in Laravel, step by step
 
 >Sorry but the code that I write is in Spanish
 
